@@ -36,7 +36,7 @@ function App() {
       {profile && <>
 
         <section>
-          <h2>Topics</h2>
+          <h2>Most Popular Topics</h2>
           <ul>
             {profile.profiles?.map(name => (
               <li key={name}>{name}</li>
