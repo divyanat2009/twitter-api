@@ -2,9 +2,12 @@
 
 The app can be best viewed at : https://twitter-api-bice.vercel.app/
 
-Overview: The dashboard of this app highlights a person's social profile:
+## Overview:
+
+This App will gives us useful context and information about popular Twitter users, such as knowing how influential they may be within their domain of expertise.
 Topics: Categories the account fits into, what topics does the acoount tweet about
-Rating: How does the profile compare to peer accounts
+Rating: How does the profile compare to peer accounts.
+This app uses the PeerReach Twitter API.
 
 
 ## Available Scripts
