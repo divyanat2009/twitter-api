@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The app can be best viewed at : https://twitter-api-bice.vercel.app/
+
+Overview: The dashboard of this app highlights a person's social profile:
+Topics: Categories the account fits into, what topics does the acoount tweet about
+Rating: How does the profile compare to peer accounts
+
 
 ## Available Scripts
 
